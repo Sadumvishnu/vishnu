@@ -1,1 +1,2 @@
-
+Linux is used as an embeded OS  for varity of applications, incliding house hold applications auto motive entertainement system and network file system appliances
+Network os for routers, switches,domain name systems serviers,home networking and more
